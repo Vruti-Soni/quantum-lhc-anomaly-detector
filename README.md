@@ -33,5 +33,4 @@ A quantum kernel matrix $K_{ij} = |\langle \psi(x_i) | \psi(x_j) \rangle|^2$ is 
 * **Environment:** Google Colab / Jupyter Notebooks
 
 
-Result 
-Vector classifier.png 
+Result (https://github.com/Vruti-Soni/quantum-lhc-anomaly-detector/blob/main/Vector%20classifier.png)
